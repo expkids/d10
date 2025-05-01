@@ -32,8 +32,10 @@
     "sites": [
 
 
-//{"key": "大师兄","name":"SW華-暴風 華哥提示如访问不到电影剧集可去 主页换不同资源","type":3,"api":"http://nctv.top/tv/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/swhtv/1/refs/heads/main/%E5%A4%A7%E5%B8%88%E5%85%84.js"},
-{"key":"csp_LiteApple","name":"SW APPLE","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+//{"key": "華大师兄","name":"SW華 大師兄 華哥提示如访问不到電影劇集可去 主页换不同资源   ","type":3,"api":"http://nctv.top/tv/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/swhtv/1/refs/heads/main/%E5%A4%A7%E5%B8%88%E5%85%84.js"},
+//{"key":"csp_LiteApple","name":"SW APPLE","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+
+{"key": "華哥bf","name": "SW華哥 暴風 ","type": 1,"api": "https://bfzyapi.com/api.php/provide/vod/?ac=list","playUrl": "","categories": ["国产剧","香港剧","台湾剧","日本剧","韩国剧","欧美剧","海外剧","纪录片","动作片","犯罪片","科幻片","剧情片","悬疑片","喜剧片","战争片","爱情片","恐怖片","动画片","泰国剧","欧美动漫","动漫片","日韩动漫","港台动漫","国产动漫","海外动漫","足球","篮球","大陆综艺","港台综艺","日本综艺","综艺频道","新马泰综艺"]},   
 
 {
       "key": "SW華-苹果",
@@ -47,9 +49,6 @@
     },
 {"key": "dr_网飞TV","name":"SW華网飞","type": 3,"api": "http://nctv.top/tv/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://raw.githubusercontent.com/swhtv/1/refs/heads/main/%E7%BD%91%E9%A3%9ETV.js"},
 
-{ "key": "永乐影视", "name": "永乐┃影视", "type": 3, "api": "csp_XBPQ", "ext": "assets://bhdc/宝盒/XBPQ/永乐影视.json" },
-
-{ "key": "80S", "name": "80S｜磁力", "type": 3, "api": "csp_BLSGod", "jar": "assets://bhdc/宝盒/spider.jar", "playerType": 1, "searchable": 1, "quickSearch": 1, "filterable": 1 },
  {
             "key": "无尽资源",
             "name": "SW華无尽",
@@ -92,14 +91,89 @@
         },
 
 
-{"key": "華 -哥","name": "SW華暴风","type": 1,"api": "https://bfzyapi.com/api.php/provide/vod/?ac=list","playUrl": "","categories": ["国产剧","香港剧","台湾剧","日本剧","韩国剧","欧美剧","海外剧","纪录片","动作片","犯罪片","科幻片","剧情片","悬疑片","喜剧片","战争片","爱情片","恐怖片","动画片","泰国剧","欧美动漫","动漫片","日韩动漫","港台动漫","国产动漫","海外动漫","足球","篮球","大陆综艺","港台综艺","日本综艺","综艺频道","新马泰综艺"]},   
+
 {"key":"木 耳","name":"SW 木耳","type":1,"api":"https://json02.heimuer.xyz/api.php/provide/vod","searchable":1,"filterable":1,"changeable":1,"timeout":10,"categories":["国产剧","港剧","韩剧","日剧","泰剧","台剧","欧美剧","新马剧","其他剧","剧情片","动作片","冒险片","同性片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","灾难片","爱情片","犯罪片","科幻片","歌舞片","战争片","经典片","动画电影","网络电影","其他片","国产综艺","港台综艺","韩国综艺","日本综艺","欧美综艺","新马泰综艺","其他综艺","古装短剧","虐恋短剧","逆袭短剧","神豪短剧","重生短剧","复仇短剧","穿越短剧","甜宠短剧","强者短剧","欧美动漫","日本动漫","韩国动漫","国产动漫","港台动漫"],"header":{"user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/125.0.0.0Safari/537.36"},"jar":"https://github.com/bluefriendCN/bin/raw/refs/heads/main/fan.txt"},
 
-{ "key": "西瓜视频", "name": "西瓜┃视频", "type": 3, "api": "csp_AmuXiguaV2", "searchable": 1, "quickSearch": 0, "filterable": 0, "changeable": 0, "style": { "type": "rect", "ratio": 1.597 } },
- 
-{ "key": "星芽短剧", "name": "上头┃短剧", "type": 3, "api": "csp_AppXY", "searchable": 1, "quickSearch": 0, "filterable": 0 },
- 
-{ "key": "公众号", "name": "4K┃线路", "type": 3, "jar": "assets://bhdc/宝盒/YD.jar", "api": "csp_YDjisu", "searchable": 1, "changeable": 1 },
+{ "key": "星芽短剧", "name": "SW短剧", "type": 3, "api": "csp_AppXY", "searchable": 1, "quickSearch": 0, "filterable": 0 },
+{"key": "大师。兄","name":"SW華-大师兄","type":3,"api":"http://nctv.top/tv/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/swhtv/1/refs/heads/main/%E5%A4%A7%E5%B8%88%E5%85%84.js"}, 
+ {"key": "直播转点播","name": "SW華哥TV直播","type": 3,"searchable": 0,"api": "https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/lib/live2vod.js","ext": "https://raw.githubusercontent.com/swhtv/111/refs/heads/main/live-json"},
+{
+     	 "key": "lf_js_search",
+         "name": "搜索|lf_search",
+         "type": 3,
+         "searchable": 0,
+         "changeable": 1,
+         "quickSearch": 0,
+         "filterable": 0,
+         "api": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/lf_search3_min.js",
+         "ext": "18+"
+   	 },
+     
+        {
+            "key": "酷亚影视",
+            "name": "酷亚影视",
+            "type": 3,
+            "api": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/drpy2.min.js",
+            "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/%E9%85%B7%E4%BA%9A%E5%BD%B1%E8%A7%86.js"
+        },
+	{
+            "key": "唐人街影院",
+            "name": "唐人街影院",
+            "type": 3,
+            "api": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/drpy2.min.js",
+            "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/%E5%94%90%E4%BA%BA%E8%A1%97%E5%BD%B1%E9%99%A2.js"
+        },
+       
+        {
+            "key": "欧乐影院",
+            "name": "欧乐影院",
+            "type": 3,
+            "api": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/drpy2.min.js",
+            "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/%E6%AC%A7%E4%B9%90%E5%BD%B1%E9%99%A2.js"
+        },
+        {
+            "key": "专享影视",
+            "name": "专享影视",
+            "type": 3,
+            "api": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/drpy2.min.js",
+            "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/%E4%B8%93%E4%BA%AB%E5%BD%B1%E8%A7%86.js"
+        },
+
+	{
+            "key": "海兔影院",
+            "name": "海兔影院",
+            "type": 3,
+            "api": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/drpy2.min.js",
+            "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/%E6%B5%B7%E5%85%94%E5%BD%B1%E9%99%A2.js"
+        },
+
+	{
+            "key": "火车太堵",
+            "name": "火车太堵",
+            "type": 3,
+            "api": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/drpy2.min.js",
+            "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/%E7%81%AB%E8%BD%A6%E5%A4%AA%E5%A0%B5.js"
+        },
+
+	{
+            "key": "西瓜在线",
+            "name": "西瓜在线",
+            "type": 3,
+            "api": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/drpy2.min.js",
+            "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/%E8%A5%BF%E7%93%9C%E5%9C%A8%E7%BA%BF.js"
+        },
+	{
+            "key": "小宝影院",
+            "name": "小宝影院",
+            "type": 3,
+            "api": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/drpy2.min.js",
+            "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/%E5%B0%8F%E5%AE%9D%E5%BD%B1%E9%99%A2.js"
+        },
+	{ "key": "哈哈影视", "name": "哈哈 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/XBPQ/%E5%93%88%E5%93%88%E5%BD%B1%E8%A7%86.json" },
+	{ "key": "okzy", "name": "OK | 采集", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/XBPQ/ok%E8%B5%84%E6%BA%90.json" },
+	{ "key": "纽约影视", "name": "纽约 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "https://github.com/heroaku/TVboxo/blob/main/XBPQ/%E7%BA%BD%E7%BA%A6%E5%BD%B1%E8%A7%86.json" },
+	{ "key": "Euvod影视", "name": "Euvod | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/XBPQ/Euvod%E5%BD%B1%E8%A7%86.json" }, 
+	        
 
 {
 			"key": "卧龙",
