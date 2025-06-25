@@ -37,6 +37,17 @@
 
 {"key":"木耳","name":"SW-MUER 華哥提示如访问不到影視資源可在這裏按OK鍵換不同站點 ","type":1,"api":"https://json02.heimuer.xyz/api.php/provide/vod","searchable":1,"filterable":1,"changeable":1,"timeout":10,"categories":["国产剧","港剧","韩剧","日剧","泰剧","台剧","欧美剧","新马剧","其他剧","剧情片","动作片","冒险片","同性片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","灾难片","爱情片","犯罪片","科幻片","歌舞片","战争片","经典片","动画电影","网络电影","其他片","国产综艺","港台综艺","韩国综艺","日本综艺","欧美综艺","新马泰综艺","其他综艺","古装短剧","虐恋短剧","逆袭短剧","神豪短剧","重生短剧","复仇短剧","穿越短剧","甜宠短剧","强者短剧","欧美动漫","日本动漫","韩国动漫","国产动漫","港台动漫"],"header":{"user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/125.0.0.0Safari/537.36"},"jar":"https://github.com/bluefriendCN/bin/raw/refs/heads/main/fan.txt"},
 
+{
+"key":"文采",
+"name":"💮文采秒播",
+"type":3,
+"api":"csp_JpysGuard",
+"timeout":10,
+"playerType":2,
+"searchable":1,
+"quickSearch":1,
+"changeable":1
+},
 {"key": "大师兄","name":"SW華-大师兄 ","type":3,"api":"http://nctv.top/tv/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/swhtv/1/refs/heads/main/%E5%A4%A7%E5%B8%88%E5%85%84.js"},
 
 {"key":"csp_LiteApple","name":"SW APPLE ","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
@@ -101,7 +112,6 @@
 
 {"key":"csp_XBPQ_欧洲","name":"sw雷蒙-欧洲(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"主页url":"https://euvod.tv/","分类url":"https://euvod.tv/vodshow/{cateId}--------{catePg}---.html","分类数组":"library-item&&</a>","分类ID":"/vodshow/&&-----------.html","分类标题":">&&</a>","数组":"module-item-pic&&</div>","标题":"title=\"&&\"","图片":"data-src=\"&&\"","链接":"href=\"&&\"","播放数组":"scroll-content&&</div>","播放标题":"<span>&&</span>","播放列表":"<a&&</a>","线路数组":"data-dropdown-value&&</div>","线路标题":".:雷蒙影视:.+<span>&&</span>","搜索数组":"video-info&&</h3>","搜索url":"https://euvod.tv/vodsearch/-------------.html?wd={wd}"}},
 {"key":"csp_XBPQ_四海","name":"SW雷蒙-四海(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"请求头":"User-Agent$MOBILE_UA","编码":"UTF-8","主页":"https://www.lngwyw.com/","数组":"默认--/img/lazyload&&</p||首页--/img/lazyload&&</p","标题":"默认--alt=\"&&\"||首页--name\">*\">&&<","图片":"src=\"&&\"","副标题":"默认--rgba1\">&&<||首页--rgba1 ba-r\">&&</","链接":"href=\"&&\"","播放数组":"<div id=\"stab_11\" class=\"stab_list\"&&</div>","播放列表":"<a&&a>","播放链接":"href=\"&&\"","播放标题":">&&</","线路数组":"ptit clearfix\">&&</div>","线路标题":".:雷蒙影视:.+\">&&</p>","搜索url":"https://www.lngwyw.com/search/{wd}----------{pg}---.html","简介":"<p>&&</p>","跳转播放链接":"var player_*\"url\":\"&&\"","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$33","分类url":"https://www.lngwyw.com/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html","类型":"动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$24#纪录片$23||国产剧$13#香港剧$14#韩国剧$15#欧美剧$16#台湾剧$20#日本剧$21#其它剧$22||大陆综艺$25#日韩综艺$26#港台综艺$27#欧美综艺$28||国产动漫$29#日韩动漫$30#欧美动漫$31#其它动漫$32||女频恋爱$34#反转爽剧$35#古装仙侠$36#年代穿越$37#脑洞悬疑$38#现代都市$39"}},
-
 
 	    
 		{
