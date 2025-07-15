@@ -9,18 +9,10 @@
             "url": "https://try.gogs.io/NB666/api/raw/main/config.bin",
             "name": "🚀网盘线路"
         }, 	
-        {
-            "url": "https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json",
-            "name": "🚀PG线路"
-        }, 				
-        {
-            "url": "http://www.饭太硬.com/tv",
-            "name": "🚀饭太硬线路"
-        },          	
-        {
-            "url": "https://cnb.cool/fish2018/zx/-/git/raw/master/FongMi.json",
-            "name": "🚀真心线路"
-        }, 
+
+{"name":"🍀俊宇","url":"http://home.jundie.top:81/top98.json"},
+
+
        {
             "url": "http://ok321.top/tv",
             "name": "🚀OK线路"
@@ -33,30 +25,18 @@
             "url": "http://tvbox.王二小放牛娃.top",
             "name": "🚀王二小线路"
         },		
-        {
-            "url": "http://tv.laohu.cool/tvbox.json",
-            "name": "🚀老虎线路"
-        }, 	 		
+
         {
             "url": "http://www.meowtv.vip/tvbox.json",
             "name": "🚀喵影视线路"
         },	
-        {
-            "url": "https://cnb.cool/fish2018/duanju/-/git/raw/main/tvbox.json",
-            "name": "🚀短剧线路"
-        }, 		
+   		
         {
             "url": "http://fmys.top/fmys.json",
             "name": "🚀驸马线路"
         },	
-        {
-            "url": "http://rihou.cc:555/nzk/nzk0722.json",
-            "name": "🚀D佬线路"
-        },  		
-        {
-            "url": "http://肥猫.com",
-            "name": "🚀肥猫线路"
-        }, 
+    
+ 
         {
             "url": "http://我不是.摸鱼儿.com",
             "name": "🚀摸鱼线路"
@@ -69,18 +49,12 @@
             "url": "http://mzjk.top/禁止贩卖",
             "name": "🚀月光宝盒"
         }, 
-        {
-            "url": "http://www.mpanso.com/小米/DEMO.json",
-            "name": "🚀小米线路"
-        }, 		 	
+     
         {
             "url":"https://gitee.com/free-kingdom/dc/raw/main/T4.json",
             "name": "🚀T4线路"
         },	 		
-        {
-            "url": "https://毒盒.com/tv",
-            "name": "🚀毒盒线路"
-        },			
+     
         {
             "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
             "name": "🚀高天流云"
