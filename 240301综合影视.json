@@ -2,7 +2,10 @@
 
 {
 //"spider":"https://github.com/swhtv/ak/raw/refs/heads/main/fan%20(4).txt;md5;363b678342a43763ffbc6c3ec6c5fc0b",
-"spider": "https://github.com/swhtv/1/raw/refs/heads/main/applejar.jar",
+//"spider": "https://github.com/swhtv/1/raw/refs/heads/main/applejar.jar",
+"spider": "https://github.com/swhtv/box/raw/refs/heads/main/spider.jar;md5;3d161697458ecbcd2651a749db761ba1",
+	
+//"spider": "https://github.com/liu673cn/box/raw/refs/heads/main/fty.jar;md5;3d161697458ecbcd2651a749db761ba1",
 //"spider":"https://github.com/swhtv/1/raw/main/A4.jar",
 //"spider":"https://github.com/swhtv/1/raw/refs/heads/main/qxyc%E5%A4%A9%E5%BE%AE%E7%A7%91%E6%8A%80.jar",
 //"spider":"https://github.com/swhtv/1/blob/main/Xspider.jar",
@@ -90,6 +93,20 @@
             ]
         },
 
+{"key":"浪酷影视","name":"💡浪酷｜影视","type":3,"api":"csp_AppRJ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"url":"http://v.lkuys.cn"}},
+{"key":"瓜子影视","name":"💡瓜子｜影视","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},
+
+ {
+      "key": "文采",
+      "name": "小脑斧┃文采┃秒播",
+      "type": 3,
+      "api": "csp_JpysGuard",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+  },
 
 {"key": "華哥","name": "SW華暴风","type": 1,"api": "https://bfzyapi.com/api.php/provide/vod/?ac=list","playUrl": "","categories": ["国产剧","香港剧","台湾剧","日本剧","韩国剧","欧美剧","海外剧","纪录片","动作片","犯罪片","科幻片","剧情片","悬疑片","喜剧片","战争片","爱情片","恐怖片","动画片","泰国剧","欧美动漫","动漫片","日韩动漫","港台动漫","国产动漫","海外动漫","足球","篮球","大陆综艺","港台综艺","日本综艺","综艺频道","新马泰综艺"]},   
 
@@ -1045,8 +1062,4 @@
         "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
     ]
 }
-
-
-
-
 
