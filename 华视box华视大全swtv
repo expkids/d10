@@ -84,8 +84,7 @@ Animal Planet,https://a1xs.vip/300035
 History Channel,http://143.244.60.30/history_channel/index.m3u8
 History,https://fl1.moveonjoy.com/history_channel/index.m3u8
 National_Geographic,https://fl31.moveonjoy.com/National_Geographic/tracks-v1a1/mono.m3u8
-Nat_Geo_Wild,https://fl1.moveonjoy.com/Nat_Geo_Wild/tracks-v1a1/mono.m3u8
- Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 WILD EARTH,https://d2f9g9rfw2kx84.cloudfront.net/playlist/amg01290-wildearth-oando/cb5735176570678684c83d61cef84982847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ae7e4cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7f7b00b4ddb39f7e3014e917d10fa83439fd401ea85d708834a847ff8109f96a2ded54387e4205293768a8ba2c54007fba358d1af7eb7d49b6d38ee0942243074966e17632c46eb694c4eecf78b9e68fa01c78a24fb105f68c9002df659be63a51ba9e947aca1f9ad2ad6a137a62903088e9fc7a5f52132af6ff4e88cb71050cddc463d2fac1c12221f0ad775ee34fdf701d241bc3987c95757e19c408994b182a0848258932bdec8ce555c28414e0b188f51ae9b228e678d38e0f91a2f584253beda7bf0c6880e7e3214c6b757da454fe29b93d58b477beb700b56ed57dc592e65d87b392fb263aacc7c24a20e3ea81971bb543c8b47bc9f29f6acd4ac4618bdccc84ffa20bee6529ca64cf9236c1931b2f42d4d4c032883b9285e660bb62f8ee4c3ef730617ffb79caeb234163379460242db98a41afda9cf261a1ac42956437c02189b0196249f37400e2ac609c0ee6e5080152a39e9b7353e0b3ec028d077745969226905dafc4e68697341c4fb912568f561/126/640x360_1020800/index.m3u8
 outdoor channel,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 wild tv,https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476/variant/22100055.m3u8
@@ -109,7 +108,7 @@ Go2Travel,https://go2thls.wns.live/hls/stream.m3u8
 The design network,https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlistR240p.m3u8
 
 HBO,https://fl1.moveonjoy.com/HBO/tracks-v1a1/mono.m3u8
-http://143.244.60.30/HBO/index.m3u8
+HBO,http://143.244.60.30/HBO/index.m3u8
 HBO 2,https://fl1.moveonjoy.com/HBO_2/tracks-v1a1/mono.m3u8
 HBO_COMEDY,https://fl1.moveonjoy.com/HBO_COMEDY/tracks-v1a1/mono.m3u8
 HBO_FAMILY,https://fl1.moveonjoy.com/HBO_FAMILY/tracks-v1a1/mono.m3u8
@@ -175,10 +174,7 @@ Nickelodeon en Español,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.
 NickToons,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654ca7f92c1d3300086b608c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b6610-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=359ee837-a829-4fe0-9d99-8dc36018ced2
 MovieSphere (1080p),https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
-itv1,https://a1xs.vip/1000011
-itv2,https://a1xs.vip/1000012
-itv3,https://a1xs.vip/1000013
-itv4,https://a1xs.vip/1000014
+
 TNT,https://a1xs.vip/300001
 
 Paramount Network,http://143.244.60.30/PARAMOUNT_NETWORK/index.m3u8
@@ -317,15 +313,13 @@ SW-TV港台,#genre#
 TVB無线新聞,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 TVB無线新聞,http://rihou.cc:555/tv/[Mt]无线新闻
 
-新時代1,http://194.147.100.173/jsy/p.php/?id=jSOdhRwPs21f1PSJYYpfVA
-新時代2,http://194.147.100.173/jsy/p.php/?id=jTQCGqsbkPDMhkjN5ubj1g
 
 600国际新闻台,https://live.xinflix.com/Lshape/tracks-v1a1/mono.m3u8
 香港有綫新聞78,http://rihou.cc:555/tv/[Mt]有线新闻
 NOW新闻台,https://cdn.163189.xyz/163189/now
 NOW新闻台,http://rihou.cc:555/tv/[Mt]Now新闻
 NOW live,https://hls.168.us.kg/u/331/stream_0.m3u8?u=ru&p=681cfe61cfaa9b629ef23f51a193b2008a1dfa6345d8a5cf4feeff6af1349b6f&uid=3611753169
-NOW財經,http://rihou.cc:555/tv/[Mt]Now财经
+
 now sport 603,https://yang-1989.eu.org/live/now-630
 NowSports1,http://194.147.100.173/jsy/p.php/?id=qNGn_TakOsOwRpn3Mjm45g
 NowSports2,http://194.147.100.173/jsy/p.php/?id=Q8NYglMLp8ad4_Fc-bcUng
@@ -334,7 +328,6 @@ NowSports4,http://194.147.100.173/jsy/p.php/?id=-o4hvKP6WsBmxEXSZN5rdg
 NowSports5,http://194.147.100.173/jsy/p.php/?id=xvK2bcmrLuugfax6eqdqLw
 NowSports6,http://194.147.100.173/jsy/p.php/?id=wBgYnyVy1rfMCut9dnxBaw
 NowSports7,http://194.147.100.173/jsy/p.php/?id=CCeKNXjAhM9Q7b34vyw4fQ
-
 NowSports英超,http://194.147.100.173/jsy/p.php/?id=Cg80BB1FyNzag8LF_ADlug
 NowSports英超1台,http://194.147.100.173/jsy/p.php/?id=Yw8eBmhP9o9G7c552e17Og
 NowSports英超2台,http://194.147.100.173/jsy/p.php/?id=IhiIinNGPjlT1-oCwa1mUQ
@@ -342,15 +335,17 @@ NowSports英超3台,http://194.147.100.173/jsy/p.php/?id=P0dsHfOajC0BsK429cbsWg
 NowSports英超4台,http://194.147.100.173/jsy/p.php/?id=xOzqpUzWsL_iyx5e6YJynA
 NowSports英超5台,http://194.147.100.173/jsy/p.php/?id=YZI3-hzKBK4G8X2mArHawA
 NowSports英超6台,http://194.147.100.173/jsy/p.php/?id=6vOiNmKxN--XPqzAj0CUug
+bEIN Sports 1,http://194.147.100.173/jsy/p.php/?id=UaP0-KQfyboDC-NY5KmBNA
+bEIN Sports 2,http://194.147.100.173/jsy/p.php/?id=HQ4xiBLWYiR_OSrhQvuGlw
 bEIN Sports 3,http://194.147.100.173/jsy/p.php/?id=n1COMauvxq_QCxCQTif7xg
 NowGolf 2,http://194.147.100.173/jsy/p.php/?id=fg2VzJXI0xeXw174eUWbVg
 NowGolf 3,http://194.147.100.173/jsy/p.php/?id=LuUOPG4hJYdDpA0Jm0hdTg
 Now630体育台,http://194.147.100.173/jsy/p.php/?id=04RgWhnLtNVOfYLMAPQIrw
 NowSports641,http://194.147.100.173/jsy/p.php/?id=H0QUaPX921fgupBc90oWRg
 NowSportsPlus,http://194.147.100.173/jsy/p.php/?id=dUIs6e1djzIREYHXZSVevA
-88跑马台,http://194.147.100.173/jsy/p.php/?id=S6mg18-MfQqirnoeqmKQOA
-Now668跑马台,http://194.147.100.173/jsy/p.php/?id=19TaCfqV8C7kqkmYfUGiQA
-Now336报价台,http://194.147.100.173/jsy/p.php/?id=NSf0HQBk9oPiVMZw81S2hg
+88跑马,http://194.147.100.173/jsy/p.php/?id=S6mg18-MfQqirnoeqmKQOA
+Now668跑马,http://194.147.100.173/jsy/p.php/?id=19TaCfqV8C7kqkmYfUGiQA
+Now336跑马,http://194.147.100.173/jsy/p.php/?id=NSf0HQBk9oPiVMZw81S2hg
 
 
 
@@ -539,7 +534,7 @@ AWE Encore,https://aweencore-tcl.amagi.tv/playlist.m3u8
 
 
 
-SPORT体育 ,#genre#
+SW-SPORT体育 ,#genre#
 
 
 TENNIS _CHANNEL,https://fl31.moveonjoy.com/TENNIS_CHANNEL/tracks-v1a1/mono.ts.m3u8
@@ -641,6 +636,7 @@ UFC H,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138a
 
 
 now sport 603,https://yang-1989.eu.org/live/now-630
+now sport 603,https://yang-1989.eu.org/live/now-630
 NowSports1,http://194.147.100.173/jsy/p.php/?id=qNGn_TakOsOwRpn3Mjm45g
 NowSports2,http://194.147.100.173/jsy/p.php/?id=Q8NYglMLp8ad4_Fc-bcUng
 NowSports3,http://194.147.100.173/jsy/p.php/?id=URzV09T7hXDJZgBchRSHbA
@@ -648,7 +644,6 @@ NowSports4,http://194.147.100.173/jsy/p.php/?id=-o4hvKP6WsBmxEXSZN5rdg
 NowSports5,http://194.147.100.173/jsy/p.php/?id=xvK2bcmrLuugfax6eqdqLw
 NowSports6,http://194.147.100.173/jsy/p.php/?id=wBgYnyVy1rfMCut9dnxBaw
 NowSports7,http://194.147.100.173/jsy/p.php/?id=CCeKNXjAhM9Q7b34vyw4fQ
-
 NowSports英超,http://194.147.100.173/jsy/p.php/?id=Cg80BB1FyNzag8LF_ADlug
 NowSports英超1台,http://194.147.100.173/jsy/p.php/?id=Yw8eBmhP9o9G7c552e17Og
 NowSports英超2台,http://194.147.100.173/jsy/p.php/?id=IhiIinNGPjlT1-oCwa1mUQ
@@ -656,15 +651,18 @@ NowSports英超3台,http://194.147.100.173/jsy/p.php/?id=P0dsHfOajC0BsK429cbsWg
 NowSports英超4台,http://194.147.100.173/jsy/p.php/?id=xOzqpUzWsL_iyx5e6YJynA
 NowSports英超5台,http://194.147.100.173/jsy/p.php/?id=YZI3-hzKBK4G8X2mArHawA
 NowSports英超6台,http://194.147.100.173/jsy/p.php/?id=6vOiNmKxN--XPqzAj0CUug
+bEIN Sports 1,http://194.147.100.173/jsy/p.php/?id=UaP0-KQfyboDC-NY5KmBNA
+bEIN Sports 2,http://194.147.100.173/jsy/p.php/?id=HQ4xiBLWYiR_OSrhQvuGlw
 bEIN Sports 3,http://194.147.100.173/jsy/p.php/?id=n1COMauvxq_QCxCQTif7xg
 NowGolf 2,http://194.147.100.173/jsy/p.php/?id=fg2VzJXI0xeXw174eUWbVg
 NowGolf 3,http://194.147.100.173/jsy/p.php/?id=LuUOPG4hJYdDpA0Jm0hdTg
 Now630体育台,http://194.147.100.173/jsy/p.php/?id=04RgWhnLtNVOfYLMAPQIrw
 NowSports641,http://194.147.100.173/jsy/p.php/?id=H0QUaPX921fgupBc90oWRg
 NowSportsPlus,http://194.147.100.173/jsy/p.php/?id=dUIs6e1djzIREYHXZSVevA
-88跑马台,http://194.147.100.173/jsy/p.php/?id=S6mg18-MfQqirnoeqmKQOA
-Now668跑马台,http://194.147.100.173/jsy/p.php/?id=19TaCfqV8C7kqkmYfUGiQA
-Now336报价台,http://194.147.100.173/jsy/p.php/?id=NSf0HQBk9oPiVMZw81S2hg
+88跑马,http://194.147.100.173/jsy/p.php/?id=S6mg18-MfQqirnoeqmKQOA
+Now668跑马,http://194.147.100.173/jsy/p.php/?id=19TaCfqV8C7kqkmYfUGiQA
+Now336跑马,http://194.147.100.173/jsy/p.php/?id=NSf0HQBk9oPiVMZw81S2hg
+
 ELEVEN sport 1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN sport 2,rtmp://f13h.mine.nu/sat/tv741
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
@@ -758,7 +756,7 @@ Hard Knocks,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhardknocksfight
 
 
 
-CCTV+卫视,#genre#
+SW-CCTV+卫视,#genre#
 CCTV 13,https://cdn3.163189.xyz/163189/cctv13
 CCTV-13,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2NjdHYxMy5tM3U4
 
@@ -858,20 +856,38 @@ CGTN,http://23.237.228.134/live3/CGTN.m3u8
 
 
 
-解码选（内置）播放,#genre#
-XINGSHIDAI E,http://iptvpro.pw:35451//live/SUPER-F/87654321/445.ts
-XINGSHIDAI W ,http://iptvpro.pw:35451//live/SUPER-F/87654321/446.ts
-XINGSHIDAI HD,http://iptvpro.pw:35451//live/SUPER-F/87654321/447.ts
+解码选(内置)播放,#genre#
+CP24 ,http://iptvpro.pw:35451//live/swtv123/87654321/1350.ts
+Weather Networks,http://iptvpro.pw:35451//live/swtv123/87654321/1372.ts
 OMNI 2,http://iptvpro.pw:35451//live/swtv123/87654321/1450.ts
 MSNBC,http://iptvpro.pw:35451//live/swtv123/87654321/1273.ts
-CP24 B,http://iptvpro.pw:35451//live/swtv123/87654321/1350.ts
-CP24,http://iptvpro.pw:35451//live/swtv123/87654321/1429.ts
+Global Ontario,http://iptvpro.pw:35451//live/swtv123/87654321/1455.ts
+FOX News,http://iptvpro.pw:35451//live/swtv123/87654321/1183.ts
 CTV  Toronto,http://iptvpro.pw:35451//live/swtv123/87654321/1435.ts
+CTV 2,http://iptvpro.pw:35451//live/swtv123/87654321/1428.ts
 City TV Toronto,http://iptvpro.pw:35451//live/swtv123/87654321/1438.ts
-BNN,http://iptvpro.pw:35451//live/swtv123/87654321/1356.ts
+TSN 1,http://iptvpro.pw:35451//live/swtv123/87654321/1395.ts
+TSN 2,http://iptvpro.pw:35451//live/swtv123/87654321/1396.ts
+TSN 3,http://iptvpro.pw:35451//live/swtv123/87654321/1397.ts
+TSN 4,http://iptvpro.pw:35451//live/swtv123/87654321/1398.ts
+TSN 5,http://iptvpro.pw:35451//live/swtv123/87654321/1399.ts
+Sportsnet 1,http://iptvpro.pw:35451//live/swtv123/87654321/1443.ts
+Sportsnet ON,http://iptvpro.pw:35451//live/swtv123/87654321/1445.ts
+Sportsnet P,http://iptvpro.pw:35451//live/swtv123/87654321/1446.ts
+F1,http://iptvpro.pw:35451//live/swtv123/87654321/1563.ts
+Premier Sports 1,http://iptvpro.pw:35451//live/swtv123/87654321/1509.ts
+Premier Sports 2,http://iptvpro.pw:35451//live/swtv123/87654321/1510.ts
+Now 英超1台 CH621 (HK),http://iptvpro.pw:35451//live/swtv123/87654321/89.ts
+Now 英超1台 (EN) CH621 (HK),http://iptvpro.pw:35451//live/swtv123/87654321/90.ts
+Now 英超2台 CH622 (HK),http://iptvpro.pw:35451//live/swtv123/87654321/91.ts
+Now 英超3台CH623 (HK),http://iptvpro.pw:35451//live/swtv123/87654321/92.ts
+Now 英超4台 CH624 (HK),http://iptvpro.pw:35451//live/swtv123/87654321/93.ts
+Now 英超5台 CH625 (HK),http://iptvpro.pw:35451//live/swtv123/87654321/94.ts
+Now 英超6台 CH626 (HK),http://iptvpro.pw:35451//live/swtv123/87654321/95.ts
+HK NBA TV,http://iptvpro.pw:35451//live/swtv123/87654321/65070.ts
 
 
-FRANCE 法語,#genre#
+SW-FRANCE 法語,#genre#
 
 FRANCE INFO:,https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frin.m3u8
 EV TV ÉVANGILE,https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/extr/py/evtv.m3u8
@@ -1101,7 +1117,7 @@ FX2,https://toonixhls.wns.live/hls/stream.m3u8
 
 
 
-日本JAPAN,#genre#
+SW-日本JAPAN,#genre#
 CGTN JP,https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
 NHK World ,https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 
@@ -1186,7 +1202,7 @@ Sport Live Plus,https://ca01.utako.moe/sport_live_plus/index.m3u8
 
 
 
-韩国KOREA,#genre#
+SW-韩国KOREA,#genre#
 
 
 CJ OnStyle,https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
@@ -1315,7 +1331,7 @@ Fox News Talk Radio,http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
 
 
 
-Italia,#genre#
+SW-Italia,#genre#
 Rai NEWS 24,https://streamcdne2-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_1800/chunklist.m3u8
 Rai Premium,https://ilglobotv-live.akamaized.net/channels/RAIPremium/events(1000)/RAIPremium-video=1800000.m3u8
 Rai 1,https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
@@ -1333,7 +1349,7 @@ Kiss Kiss Italia TV,https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playl
 TV Yes Italia,https://stream1.aswifi.it/radioyes/live/index.m3u8
 Cusano Italia TV,https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
 
-Mexico,#genre#
+SW-Mexico,#genre#
 SPAIN LIVE TV LA2,https://d4g9wh8d4wiaw.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/eef03bcc-4a23-41f4-a6b6-d2c0789e592d/3.m3u8
 24 HORAS SPAIN,https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_360.m3u8
 HCH VIVO,https://live2.eu-north-1a.cf.dmcdn.net/sec2(Rp-ynFkvmUBYU8aOUUtou7HwiT7QJy9X_BCk_tbthkgdtauhyjrLPhQWXk0YTThCraGvTeqSi_68Ds1cwU-6aeZkz6bXz_nSA4etOTdEAW7QfI-TA6edJOI77PUpB2xi)/cloud/3/x81za5c/s/live-480.m3u8
@@ -1396,7 +1412,7 @@ UMTV,https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/chunkli
 VB MEDIA TV,https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/tracks-v2a1/mono.m3u8
 VISION TELEVISION,https://cloudvideo.servers10.com:8081/8016/tracks-v1a1/mono.m3u8
 
-COMBODIA,#genre#
+SW-COMBODIA,#genre#
 EAC NEWS,https://live-evg17.tv360.metfone.com.kh/LiveApp/streams/eacnews.m3u8
 TVK1,https://live.kh.malimarcdn.com/live/tvk.stream/chunklist.m3u8
 TVK2,https://live.kh.malimarcdn.com/live/tvk2.stream/chunklist.m3u8
@@ -1409,7 +1425,7 @@ NETLINK TV,https://netlink.netlinkbroadcaster.com/hls/test.m3u8
 MY TV,https://live.happywatch99.com/livehd11/90ecf35382a7597e553200692c3fc384.sdp/chunks.m3u8
 APSARA TV11,https://live.ams.com.kh/app/stream/playlist.m3u8
 
-CHILE,#genre#
+SW-CHILE,#genre#
 U LOS LAGOS TV,https://tv.ulagos.cl/web/live.m3u8
 UESTV,https://tls-cl.cdnz.cl/uestv/live/chunklist_w1345339806.m3u8
 UTV,https://v2.tustreaming.cl/utv/tracks-v1a1/mono.m3u8
